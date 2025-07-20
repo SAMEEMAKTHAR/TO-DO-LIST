@@ -36,7 +36,8 @@ Download or clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/SAMEEMAKTHAR/booksky.git
+git clone https://github.com/SAMEEMAKTHAR/TO-DO-LIST.git
+
 Open index.html in any modern browser.
 
 Click the ➕ button to add a new book.
